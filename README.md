@@ -1,2 +1,5 @@
-# space-flix
-Projetinho da imersão da alura, veja o trailer.
+#SPACE-FLIX
+
+Um dos projeto da imersão da alura
+
+- Click e veja o trailer.
